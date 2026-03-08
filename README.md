@@ -33,6 +33,5 @@ Humein humare resources open-source share karne par garv hai. Neeche diye gaye l
 | Component | Repository Link | Description |
 | :--- | :--- | :--- |
 | **📦 Model Weights** | [**HuggingFace: SKT_ST_X_0**](https://huggingface.co/Shrijanagain/SKT_ST_X_0) | Access GGUF, FP16, and Safetensors. |
-
 | **📂 Dataset** | [**ShORT-Hinglish 10M Dataset**](https://huggingface.co/datasets/Shrijanagain/ShORT-Hinglish_Dataset-10m) | 10 Million curated Hinglish tokens for training. |
 
