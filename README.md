@@ -61,6 +61,19 @@ ST-X-0 is a frontier research model. While it is designed for high-IQ reasoning,
 
 This project is an original creation by **Shrijan Kumar Tiwari**. All architectural decisions, dataset structuring tensoring tokensing in number format is all done by  **SKT AI Labs Research Team**.
 
+## 🤗 Hugging Face Integration
+
+ST-X-0 is fully integrated with the Hugging Face ecosystem. You can follow our research and access all model versions directly from our official profile.
+
+* **Main Profile:** [**Shrijanagain on Hugging Face**](https://huggingface.co/Shrijanagain)
+
+
+
+
+
+
+
+
 * **Developer:** Shrijan Kumar Tiwari And SKT AI LABS
 * **Project Lead:** SKT AI Labs
 
@@ -75,3 +88,7 @@ Email Us --
 sktdevolper@gmail.com
 SKTai@aisa.com
 SKTai@europe.com
+
+## 🔏 Disclaimer
+
+This is a classified version build on the work of the **SKT AI Labs Research Team**. While every effort has been made to ensure accuracy, the model may produce unexpected outputs. Users are encouraged to use the model responsibly within the guidelines of the MIT License.
