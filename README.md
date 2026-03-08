@@ -64,3 +64,14 @@ This project is an original creation by **Shrijan Kumar Tiwari**. All architectu
 * **Developer:** Shrijan Kumar Tiwari And SKT AI LABS
 * **Project Lead:** SKT AI Labs
 
+## 📞 Get In Touch
+
+Developed by the lead developer at **SKT AI Labs Research Team**, Shrijan Kumar Tiwari. 
+- **Location:** Madhya Pradesh, India.
+- **Organization:** SKT AI Labs.
+
+Email Us --
+
+sktdevolper@gmail.com
+SKTai@aisa.com
+SKTai@europe.com
